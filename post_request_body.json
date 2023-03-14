@@ -1,0 +1,36 @@
+{
+    "fields": {
+      "project": {
+        "key": "ACCESS"
+      },
+      "summary": "Please provide user access for newcomer",
+      "description": {
+        "type": "doc",
+        "version": 1,
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Please provide user access for newcomer. User role: unix admin."
+              }
+            ]
+          }
+        ]
+      },
+      "issuetype": {
+        "name": "Service request"
+      },
+      "customfield_10010": "p2/newaccount",
+      "priority": {
+          "name": "Medium"
+      },
+      "components": [
+          {
+              "name": "Office Network"
+          }
+      ],
+      "customfield_10063": "mkrajci22"
+    }
+  }
